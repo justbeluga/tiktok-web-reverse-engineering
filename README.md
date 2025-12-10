@@ -12,9 +12,7 @@ Built for developers working on high-frequency data pipelines and private TikTok
 
 Looking for deeper integration with TikTok?
 
-Join our **Discord** for access to our **TikTok Live Chat Private API connector** — a powerful signing service alternative to Euler's:
-
-👉 [https://discord.gg/YsYppxg392](https://discord.gg/YsYppxg392)
+👉 [https://t.me/orvuser](https://t.me/orvuser)
 
 ---
 
