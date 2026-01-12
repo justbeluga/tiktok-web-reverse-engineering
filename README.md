@@ -11,6 +11,7 @@ Built for developers working on high-frequency data pipelines and private TikTok
 ## 📡 TikTok Live Chat API Access
 
 Looking for deeper integration with TikTok?
+Need help scraping, bypassing captcha, tiktok affilliate, tiktok seller, tiktok shop? i got you.
 
 👉 [https://t.me/orvuser](https://t.me/orvuser)
 
